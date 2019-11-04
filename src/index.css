@@ -1,13 +1,554 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.view-1{
+    background-color:white;
+    
+}
+.img-1{
+ width: 100rem;
+ height: 35rem;
+ left:-120px;
+ bottom:0px;
+ 
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.img-2{
+    width: 100rem;
+    height: 35rem;
+    left:-120px;
+    bottom: 0px;
+   }
+   
+   .img-3{
+    width: 100rem;
+    height: 35rem;
+    left:-60px;
+   }
+   .shirtcard-1{
+       position: relative;
+       left:20px;
+       height: 25rem;
+   }
+   .shirt-1{
+    width:200px;
+    position: relative;
+    left:70px;
+    }
+   .shirtcard-2{
+    position: relative;
+    left:5px;
+    height: 25rem;
+   }
+   .shirt-2{
+    width:200px;
+    position: relative;
+    left:70px;
+    bottom: 0px;
+    }
+   .shirtcard-3{
+    position: relative;
+    left:-10px;
+    height: 25rem;
+   }
+   
+    .shirt-3{
+        width:200px;
+        position: relative;
+        left:70px;
+    }
+    .shirtcard-4{
+    position: relative;
+    left:15px;
+    height: 25rem;
+    bottom: -20px;
+    }
+    .shirt-4{
+        width:200px;
+        position: relative;
+        left:70px;
+    }
+    .shirtcard-5{
+        position: relative;
+        left:10px;
+        height: 25rem;
+        bottom: -20px;
+
+        }
+        .shirt-5{
+            width:200px;
+            position: relative;
+            left:70px;
+        }
+        .shirtcard-6{
+            position: relative;
+            left:-10px;
+            height: 25rem;
+            bottom: -20px;
+            }
+        .shirt-6{
+            width:200px;
+            position: relative;
+            left:70px;
+            }
+            .shirtbtn2{
+                position: relative;
+                bottom: -45px;
+            }
+            .shirtbtn3{
+                position: relative;
+                bottom: -35px;
+            }
+            .shirtbtn5{
+                position: relative;
+                bottom: -42px;
+            }
+            .shirtbtn6{
+                position: relative;
+                bottom: -33px;
+            }
+            .shoescard-1{
+                position: relative;
+                height: 20rem;
+                left:10px;
+
+            }
+            .shoes-1{
+                width:200px;
+                position: relative;
+                left:70px;
+                bottom: 15px;
+                }
+            .shoescard-2{
+                    position: relative;
+                    height: 20rem;
+    
+                }
+     .shoes-2{
+            width:200px;
+            position: relative;
+            left:70px;
+            bottom: 25px;
+            }
+ .shoescard-3{
+        position: relative;
+        height: 20rem;
+        right: 10px;
+
+            }
+    .shoes-3{
+                width:200px;
+                position: relative;
+                left:70px;
+                
+    
+                }
+    .shoescard-4{
+      position: relative;
+      height: 20rem;
+      bottom: -20px;
+     left:10px;
+                }
+                
+     .shoes-4{
+         width:200px;
+         position: relative;
+         left:70px;
+        
+                    }              
+        .shoescard-5{
+         position: relative;
+         height: 20rem;
+         bottom: -20px;
+        
+                    }
+        .shoes-5{
+        
+            width:200px;
+            position: relative;
+            left:70px;
+            
+                        }
+        .shoescard-6{
+         position: relative;
+         height: 20rem;
+         bottom: -20px;
+         right: 10px;
+            
+                        }
+        .shoes-6{
+         width:200px;
+         position: relative;
+         left:70px;
+         bottom: 20px;
+                
+                            }         
+ .watchcard-1{
+
+    position: relative;
+    height: 25rem;
+    bottom: -20px;
+    left:10px;
+                           
+    } 
+    .watch-1{
+        width:200px;
+        position: relative;
+        left:70px; 
+        bottom: 10px;                       
+                    
+        }                  
+
+    .watchcard-2{
+
+        position: relative;
+        height: 25rem;
+        bottom: -20px;                        
+                               
+        } 
+        .watch-2{
+        width:200px;
+        position: relative;
+        left:70px;
+        bottom: 20px;
+                        
+        } 
+        .watchbtn-2{
+            position: relative;
+            bottom: -30px;
+        }  
+        .watchcard-3{
+
+          position: relative;
+          height: 25rem;
+          bottom: -20px;
+          left: -10px;
+                                   
+        } 
+        .watch-3{
+        width:200px;
+        position: relative;
+        left:70px;
+        bottom: -10px;
+                            
+        }  
+        .watchbtn-3{
+            position: relative;
+            bottom: -30px;
+        }  
+                                    
+        .watchcard-4{
+
+            position: relative;
+            height: 25rem;
+            bottom: -30px;
+            left: 10px;
+           
+            } 
+            .watch-4{
+                width:200px;
+                height: 200px;
+                position: relative;
+                left:70px;
+                bottom: -10px;
+    
+            }   
+            .watchbtn-4{
+                position: relative;
+                bottom: -30px;
+            }                           
+            .watchcard-5{
+
+                position: relative;
+                height: 25rem;
+                bottom: -30px;
+                }                            
+                                            
+                .watch-5{
+                    width:200px;
+                    position: relative;
+                    left:70px;
+                    bottom: 20px;
+        
+                } 
+                .watchcard-6{
+
+                    position: relative;
+                    height: 25rem;
+                    bottom: -30px;
+                    left: -10px;
+                   
+                    }                              
+                                                                 
+                    .watch-6{
+                        width:200px;
+                        position: relative;
+                        left:70px;
+                        bottom: -20px;
+            
+                    } 
+                    .watchbtn-6{
+                        position: relative;
+                        bottom: -30px;
+                    } 
+                    
+                    
+                    .mobilecard-1{
+
+                        position: relative;
+                        height: 25rem;
+                        bottom: -20px;
+                        left:10px;
+                       
+                                               
+                        } 
+                        .mobile-1{
+                            width:250px;
+                            height: 200px;
+                            position: relative;
+                            left:70px; 
+                            bottom: -10px;                       
+                                        
+                            }   
+                            .mobilebutton-1{
+                                position: relative;
+                                bottom: -30px;
+                            }                
+                    
+                        .mobilecard-2{
+                    
+                            position: relative;
+                            height: 25rem;
+                            bottom: -20px; 
+                                                 
+                                                   
+                            } 
+                            .mobile-2{
+                            width:200px;
+                            height: 200px;
+                            position: relative;
+                            left:70px;
+                            bottom: -10px;
+                                            
+                            }
+                            .mobilebutton-2{
+                                position: relative;
+                                bottom: -30px;
+                            }  
+                            .mobilecard-3{
+                    
+                              position: relative;
+                              height: 25rem;
+                              bottom: -20px;
+                              left: -10px;  
+                                                       
+                            } 
+                            .mobile-3{
+                            width:250px;
+                            height: 250px;
+                            position: relative;
+                            left:70px;
+                            bottom: 10px;
+                                                
+                            }  
+                            .mobilebutton-3{
+                                position: relative;
+                                bottom: -5px;
+                            } 
+                                                        
+            .mobilecard-4{
+                    
+                position: relative;
+                height: 25rem;
+                bottom: -30px;
+                left: 10px;
+               
+                }                     
+                .mobile-4{                 
+                                                              
+                    width:250px;
+                    height: 250px;
+                    position: relative;
+                    left:70px;
+                    bottom: 10px;
+        
+                } 
+                
+                .mobilebutton-4{
+                    position: relative;
+                    bottom: -30px;
+                } 
+                .mobilecard-5{
+                    
+                    position: relative;
+                    height: 25rem;
+                    bottom: -30px;
+                   
+                    }   
+                                                                                         
+                .mobile-5{
+                 width:250px;
+                 height: 200px;
+                 position: relative;
+                 left:70px;
+                 bottom: 0px;
+                                     
+                } 
+                .mobilebutton-5{
+                    position: relative;
+                    bottom: -35px;
+                }
+                .mobilecard-6{
+                    
+                position: relative;
+                height: 25rem;
+                bottom: -30px;
+                left: -10px;
+                                       
+                }                              
+                                                                                     
+            .mobile-6{
+             width:400px;
+             height: 200px; 
+             position: relative;
+             left:-10px;
+             bottom: 0px;
+                                
+            } 
+            
+            .mobilebutton-6{
+                position: relative;
+                bottom: -30px;
+            } 
+            .button-3{
+                position: relative;
+                bottom: -3px;
+            }  
+            .button-4{
+                position: relative;
+                bottom: -5px;
+            }                             
+
+.shirtcard-1detail{
+    position: relative;
+    left:50px;
+    font-size: 20px;
+    bottom: -30px;
 }
+  .picshirt-1{
+      width:200px;
+      height: 200px;
+      position: relative;
+      left:50px;
+  }
+  .zoomshirt-1{
+      position: absolute;
+      width: 0px;
+      top:  200px;
+      left:50px
+
+  }    
+  .picshirt-1:hover + .zoomshirt-1{
+      width: 300px;
+  }
+  .picmobile-4{
+    width:400px;
+    height: 200px;
+    position: relative;
+    left:30px;
+    bottom: 10px;
+  }
+  .zoommobile-4{
+    position: absolute;
+    width: 0px;
+    bottom: -270px;
+    left:50px
+
+}   
+.picmobile-4:hover + .zoommobile-4{
+    width: 400px;      
+}
+  .picmobile-5{
+    width:300px;
+    height: 200px;
+    position: relative;
+    left:50px;
+  }
+  .zoommobile-5{
+    position: absolute;
+    width: 0px;
+    bottom: -240px;
+    left:50px
+
+}   
+.picmobile-5:hover + .zoommobile-5{
+    width: 400px;
+    
+}
+.picmobile-6{
+    width:400px;
+    height: 200px;
+    position: relative;
+    left:50px;
+  }
+  .zoommobile-6{
+    position: absolute;
+    width: 0px;
+    bottom: -270px;
+    left:50px
+
+}   
+.picmobile-6:hover + .zoommobile-6{
+    width: 500px;
+    
+}
+.cartcard{
+    position: relative;
+    width: 40rem;
+    left:40rem;
+    height: 40rem;
+    bottom: -30px;
+}
+.cartinput1{
+    width: 15rem;
+    position: relative;
+    left: 1rem;
+    
+
+}
+.cartinput2{
+    width: 18rem;
+    position: relative;
+    left: 18rem;
+    bottom: 4.5rem;
+    
+
+}
+.cartinput3{
+    
+   position: relative;
+   bottom: 3rem;
+   }
+.cartinput4{
+    
+   position: relative;
+   bottom: 2rem;  
+
+}
+.cartinput5{
+    
+    position: relative;
+    bottom: -1rem;  
+ 
+ }
+ .btn-round-lg{
+    border-radius: 50px;
+    position: relative;
+    left: 150px;
+    bottom: -20px;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+   }
+    .btn-round{
+    border-radius: 50px;
+     }
+  
